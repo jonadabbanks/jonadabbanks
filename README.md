@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Glory Bassey <br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 2023)<br>👯 I’m looking forward  to collaborate on Great and innovative projects,  hackathons, and remote job opportunities.<br>🌱 I’m currently learning Python, Javascript, C programming Language<br>💞️ I'm looking forward to solve the world's biggest problem <br>📫 You can reach me via email at godlybassey101@gmail.com<br>#DoingHardThings <br>
+As a software engineer with a strong foundation in various programming languages and technologies, including Python, JavaScript, and scripting languages such as PowerShell and Bash, I have expertise in creating dynamic, visually appealing websites that are responsive and user-friendly. In addition, I have extensive experience in custom application development using Python and the Django framework to build robust backend systems.
+
+In addition to my technical skills, I am a proactive problem-solver and team player who enjoys collaborating to achieve common goals. I am passionate about staying up-to-date with the latest developments in my field and continually improving my skills. I am excited to bring my knowledge and experience to new opportunities and challenges as I continue to grow my career in software engineering.
 
 
 ## 🌐 Socials:
