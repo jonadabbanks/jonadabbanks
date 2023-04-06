@@ -5,7 +5,7 @@ In addition to my technical skills, I am a proactive problem-solver and team pla
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-1769ff?logo=Instagram&logoColor=white)](https://behance.net/https://www.behance.net/glorybassey1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonadab-emeribe-35914b162) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonadabbanks) [![Quora](https://img.shields.io/badge/Quora-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonadabbanks) 
+[![Instagram](https://img.shields.io/badge/Instagram-1769ff?logo=Instagram&logoColor=white)](https://behance.net/https://www.behance.net/glorybassey1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonadab-emeribe-35914b162) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonadabbanks) [![Quora](https://img.shields.io/badge/Quora-%231DA1F2.svg?logo=Quora&logoColor=white)](https://twitter.com/jonadabbanks) 
 
 
 # 💻 Tech Stack:
